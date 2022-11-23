@@ -1,0 +1,191 @@
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\Reportes.exe
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\Reportes.pdb
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\stdole.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\obj\Debug\Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\obj\Debug\Reportes.frmReporte.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\obj\Debug\Reportes.exe
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\Reportes\obj\Debug\Reportes.pdb
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\obj\Debug\Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\obj\Debug\Reportes.frmReporte.resources
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\obj\Debug\Reportes.exe
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\obj\Debug\Reportes.pdb
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\Reportes.exe
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\Reportes.pdb
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\Reportes.exe
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\Reportes.pdb
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\stdole.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\obj\Debug\Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\obj\Debug\Reportes.frmReporte.resources
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\obj\Debug\Reportes.exe
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\Reportes\obj\Debug\Reportes.pdb

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Formularios\frmAgregarComprobante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\frmAgregarPelicula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\frmConocenos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\frmPeliculas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\frmComprobantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+</Project>

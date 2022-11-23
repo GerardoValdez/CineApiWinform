@@ -1,0 +1,120 @@
+C:\Users\usuario\Desktop\Escritorio\TUP-2022\PROGRAMACION II\TPI\CineCordoba\CineBack\obj\Debug\net5.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Escritorio\TUP-2022\PROGRAMACION II\TPI\CineCordoba\CineBack\obj\Debug\net5.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Escritorio\TUP-2022\PROGRAMACION II\TPI\CineCordoba\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Escritorio\TUP-2022\PROGRAMACION II\TPI\CineCordoba\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Escritorio\TUP-2022\PROGRAMACION II\TPI\CineCordoba\CineBack\obj\Debug\net5.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Escritorio\TUP-2022\PROGRAMACION II\TPI\CineCordoba\CineBack\bin\Debug\net5.0\CineBack.deps.json
+C:\Users\usuario\Desktop\Escritorio\TUP-2022\PROGRAMACION II\TPI\CineCordoba\CineBack\bin\Debug\net5.0\CineBack.dll
+C:\Users\usuario\Desktop\Escritorio\TUP-2022\PROGRAMACION II\TPI\CineCordoba\CineBack\bin\Debug\net5.0\ref\CineBack.dll
+C:\Users\usuario\Desktop\Escritorio\TUP-2022\PROGRAMACION II\TPI\CineCordoba\CineBack\bin\Debug\net5.0\CineBack.pdb
+C:\Users\usuario\Desktop\Escritorio\TUP-2022\PROGRAMACION II\TPI\CineCordoba\CineBack\obj\Debug\net5.0\CineBack.dll
+C:\Users\usuario\Desktop\Escritorio\TUP-2022\PROGRAMACION II\TPI\CineCordoba\CineBack\obj\Debug\net5.0\ref\CineBack.dll
+C:\Users\usuario\Desktop\Escritorio\TUP-2022\PROGRAMACION II\TPI\CineCordoba\CineBack\obj\Debug\net5.0\CineBack.pdb
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\CineBack\bin\Debug\net5.0\CineBack.deps.json
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\CineBack\bin\Debug\net5.0\CineBack.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\CineBack\bin\Debug\net5.0\CineBack.pdb
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\CineBack\obj\Debug\net5.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\CineBack\obj\Debug\net5.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfo.cs
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\CineBack\obj\Debug\net5.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\CineBack\obj\Debug\net5.0\CineBack.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\CineBack\obj\Debug\net5.0\refint\CineBack.dll
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\CineBack\obj\Debug\net5.0\CineBack.pdb
+C:\Users\Valdez\OneDrive\Documentos\Documentos Personales\Escritorio\Prog II\TPIprog\CineBack\obj\Debug\net5.0\ref\CineBack.dll
+C:\Users\usuario\Desktop\TPI-CINE-PROG\CineBack\bin\Debug\net5.0\CineBack.deps.json
+C:\Users\usuario\Desktop\TPI-CINE-PROG\CineBack\bin\Debug\net5.0\CineBack.dll
+C:\Users\usuario\Desktop\TPI-CINE-PROG\CineBack\bin\Debug\net5.0\CineBack.pdb
+C:\Users\usuario\Desktop\TPI-CINE-PROG\CineBack\obj\Debug\net5.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TPI-CINE-PROG\CineBack\obj\Debug\net5.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TPI-CINE-PROG\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TPI-CINE-PROG\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TPI-CINE-PROG\CineBack\obj\Debug\net5.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TPI-CINE-PROG\CineBack\obj\Debug\net5.0\CineBack.dll
+C:\Users\usuario\Desktop\TPI-CINE-PROG\CineBack\obj\Debug\net5.0\refint\CineBack.dll
+C:\Users\usuario\Desktop\TPI-CINE-PROG\CineBack\obj\Debug\net5.0\CineBack.pdb
+C:\Users\usuario\Desktop\TPI-CINE-PROG\CineBack\obj\Debug\net5.0\ref\CineBack.dll
+C:\Users\Gonzalo\Desktop\cine-prog\CineBack\bin\Debug\net5.0\CineBack.deps.json
+C:\Users\Gonzalo\Desktop\cine-prog\CineBack\bin\Debug\net5.0\CineBack.dll
+C:\Users\Gonzalo\Desktop\cine-prog\CineBack\bin\Debug\net5.0\CineBack.pdb
+C:\Users\Gonzalo\Desktop\cine-prog\CineBack\obj\Debug\net5.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\cine-prog\CineBack\obj\Debug\net5.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\cine-prog\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\cine-prog\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\cine-prog\CineBack\obj\Debug\net5.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\cine-prog\CineBack\obj\Debug\net5.0\CineBack.dll
+C:\Users\Gonzalo\Desktop\cine-prog\CineBack\obj\Debug\net5.0\refint\CineBack.dll
+C:\Users\Gonzalo\Desktop\cine-prog\CineBack\obj\Debug\net5.0\CineBack.pdb
+C:\Users\Gonzalo\Desktop\cine-prog\CineBack\obj\Debug\net5.0\ref\CineBack.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\CineBack\bin\Debug\net5.0\CineBack.deps.json
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\CineBack\bin\Debug\net5.0\CineBack.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\CineBack\bin\Debug\net5.0\CineBack.pdb
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\CineBack\obj\Debug\net5.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\CineBack\obj\Debug\net5.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfo.cs
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\CineBack\obj\Debug\net5.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\CineBack\obj\Debug\net5.0\CineBack.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\CineBack\obj\Debug\net5.0\refint\CineBack.dll
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\CineBack\obj\Debug\net5.0\CineBack.pdb
+C:\Users\ger4r\Desktop\Prog II\TPIprogramacion\CineBack\obj\Debug\net5.0\ref\CineBack.dll
+C:\Users\usuario\Desktop\Cine-Programacion\CineBack\bin\Debug\net5.0\CineBack.deps.json
+C:\Users\usuario\Desktop\Cine-Programacion\CineBack\bin\Debug\net5.0\CineBack.dll
+C:\Users\usuario\Desktop\Cine-Programacion\CineBack\bin\Debug\net5.0\CineBack.pdb
+C:\Users\usuario\Desktop\Cine-Programacion\CineBack\obj\Debug\net5.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Cine-Programacion\CineBack\obj\Debug\net5.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Cine-Programacion\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Cine-Programacion\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Cine-Programacion\CineBack\obj\Debug\net5.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Cine-Programacion\CineBack\obj\Debug\net5.0\CineBack.dll
+C:\Users\usuario\Desktop\Cine-Programacion\CineBack\obj\Debug\net5.0\refint\CineBack.dll
+C:\Users\usuario\Desktop\Cine-Programacion\CineBack\obj\Debug\net5.0\CineBack.pdb
+C:\Users\usuario\Desktop\Cine-Programacion\CineBack\obj\Debug\net5.0\ref\CineBack.dll
+C:\Users\usuario\Desktop\CINEMA\CineBack\bin\Debug\net5.0\CineBack.deps.json
+C:\Users\usuario\Desktop\CINEMA\CineBack\bin\Debug\net5.0\CineBack.dll
+C:\Users\usuario\Desktop\CINEMA\CineBack\bin\Debug\net5.0\CineBack.pdb
+C:\Users\usuario\Desktop\CINEMA\CineBack\obj\Debug\net5.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\CINEMA\CineBack\obj\Debug\net5.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\CINEMA\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\CINEMA\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfo.cs
+C:\Users\usuario\Desktop\CINEMA\CineBack\obj\Debug\net5.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\CINEMA\CineBack\obj\Debug\net5.0\CineBack.dll
+C:\Users\usuario\Desktop\CINEMA\CineBack\obj\Debug\net5.0\refint\CineBack.dll
+C:\Users\usuario\Desktop\CINEMA\CineBack\obj\Debug\net5.0\CineBack.pdb
+C:\Users\usuario\Desktop\CINEMA\CineBack\obj\Debug\net5.0\ref\CineBack.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\CineBack\bin\Debug\net5.0\CineBack.deps.json
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\CineBack\bin\Debug\net5.0\CineBack.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\CineBack\bin\Debug\net5.0\CineBack.pdb
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\CineBack\obj\Debug\net5.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\CineBack\obj\Debug\net5.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfo.cs
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\CineBack\obj\Debug\net5.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\CineBack\obj\Debug\net5.0\CineBack.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\CineBack\obj\Debug\net5.0\refint\CineBack.dll
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\CineBack\obj\Debug\net5.0\CineBack.pdb
+C:\Users\usuario\Desktop\CINEMA-CORDOBA\CineBack\obj\Debug\net5.0\ref\CineBack.dll
+C:\Users\Gonzalo\Desktop\TPI FINAL\CineBack\bin\Debug\net5.0\CineBack.deps.json
+C:\Users\Gonzalo\Desktop\TPI FINAL\CineBack\bin\Debug\net5.0\CineBack.dll
+C:\Users\Gonzalo\Desktop\TPI FINAL\CineBack\bin\Debug\net5.0\CineBack.pdb
+C:\Users\Gonzalo\Desktop\TPI FINAL\CineBack\obj\Debug\net5.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TPI FINAL\CineBack\obj\Debug\net5.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\TPI FINAL\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\TPI FINAL\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\TPI FINAL\CineBack\obj\Debug\net5.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TPI FINAL\CineBack\obj\Debug\net5.0\CineBack.dll
+C:\Users\Gonzalo\Desktop\TPI FINAL\CineBack\obj\Debug\net5.0\refint\CineBack.dll
+C:\Users\Gonzalo\Desktop\TPI FINAL\CineBack\obj\Debug\net5.0\CineBack.pdb
+C:\Users\Gonzalo\Desktop\TPI FINAL\CineBack\obj\Debug\net5.0\ref\CineBack.dll
+C:\Users\Gonzalo\Desktop\TPI FINAL - copia\CineBack\bin\Debug\net5.0\CineBack.deps.json
+C:\Users\Gonzalo\Desktop\TPI FINAL - copia\CineBack\bin\Debug\net5.0\CineBack.dll
+C:\Users\Gonzalo\Desktop\TPI FINAL - copia\CineBack\bin\Debug\net5.0\CineBack.pdb
+C:\Users\Gonzalo\Desktop\TPI FINAL - copia\CineBack\obj\Debug\net5.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TPI FINAL - copia\CineBack\obj\Debug\net5.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\TPI FINAL - copia\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\TPI FINAL - copia\CineBack\obj\Debug\net5.0\CineBack.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\TPI FINAL - copia\CineBack\obj\Debug\net5.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TPI FINAL - copia\CineBack\obj\Debug\net5.0\CineBack.dll
+C:\Users\Gonzalo\Desktop\TPI FINAL - copia\CineBack\obj\Debug\net5.0\refint\CineBack.dll
+C:\Users\Gonzalo\Desktop\TPI FINAL - copia\CineBack\obj\Debug\net5.0\CineBack.pdb
+C:\Users\Gonzalo\Desktop\TPI FINAL - copia\CineBack\obj\Debug\net5.0\ref\CineBack.dll
